@@ -2,13 +2,13 @@
 
 ###
 
-<h2 align="center">I'm a Brazilian FullStack developer using Django and Flask most of the time, but learning Laravel too. My free time is spent with games, movies, series and anime. I also love taking pictures, but nothing professional. Oh yeah, I'm a hardware geek too. I'm currently finishing the Rust and Angular course and working at Kodachi Machine as a FullStack developer and expanding my cybersecurity knowledge.</h2>
+<h3 align="center">I'm a Brazilian FullStack developer using Django and Flask most of the time, but learning Laravel too. My free time is spent with games, movies, series and anime. I also love taking pictures, but nothing professional. Oh yeah, I'm a hardware geek too. I'm currently finishing the Rust and Angular course and working at Kodachi Machine as a FullStack developer and expanding my cybersecurity knowledge.</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NathanHackSec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanHackSec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanHackSec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=150&theme=dracula&hide_border=false" height="80" alt="languages graph"  />
 </div>
 
 ###
@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
 </div>
 
 ###
@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://media.giphy.com/media/12xSrwKxHxB3BS/giphy.gif"  />
+  <img height="300" src="https://media.giphy.com/media/hRqxN8UbaaGuA/giphy.gif"  />
 </div>
 
 ###

@@ -62,14 +62,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/NathanHackSec/NathanHackSec/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/12xSrwKxHxB3BS/giphy.gif"  />
+  <img height="350" src="https://media.giphy.com/media/12xSrwKxHxB3BS/giphy.gif"  />
 </div>
 
 ###

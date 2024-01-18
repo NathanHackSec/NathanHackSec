@@ -36,14 +36,14 @@
 
 ## Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&layout=donut-vertical&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanHackSec&layout=donut-vertical&theme=shadow_red)
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 <div align="center"> 
  
-## Skilss
+## Studying
 
 <div>
 
